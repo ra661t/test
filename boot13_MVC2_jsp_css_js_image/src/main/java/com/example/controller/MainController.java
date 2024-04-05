@@ -12,6 +12,7 @@ public class MainController {
 		System.out.println("/ jenkins 에서 자동 인식 배포함");
 		System.out.println("/ jenkins 다시 빌드");
 		System.out.println("/ jenkins 다시다시 빌드");
+		System.out.println("/ 탄력적 ip 빌드");
 		return "main";
 	}
 	@GetMapping("/loginForm")
