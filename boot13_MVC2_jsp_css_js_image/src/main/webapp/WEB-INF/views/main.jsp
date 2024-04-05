@@ -11,6 +11,7 @@
 <body>
 <h1>static 파일 설정</h1>
 <h1>수정사항 추가</h1>
+<h1>흠</h1>
 
 <img src="resources/images/a.jpg" width="100" height="100"><br>
 <a href="loginForm">로그인 폼으로 이동</a>
